@@ -75,7 +75,7 @@
     "jest": "^26.4.2",
     "jest-cli": "^26.4.2",
     "jest-environment-node": "^26.0.0",
-    "jest-expo": "^47.0.0",
+    "jest-expo": "^50.0.3",
     "metro-react-native-babel-preset": "^0.72.1",
     "mock-socket": "^7.1.0",
     "react": "18.1.0",
